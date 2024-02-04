@@ -4,7 +4,7 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
+  XOutlined,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -23,7 +23,7 @@ function Home2() {
               <i>
                 <b className="purple">Macclesfield</b>
               </i> in Cheshire, England—just a hop, skip, and jump away from the vibrant city of Manchester. 
-              <br /><br />>
+              <br /><br />
               By day, I'm your friendly neighborhood 
               <i>
                 <b className="purple">iMIS</b>
