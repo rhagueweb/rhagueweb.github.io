@@ -20,22 +20,23 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hey there! I'm Richard Hague, hailing from the charming town of 
+              Hey there! I'm Richard Hague (33), hailing from the charming town of  
               <i>
                 <b className="purple">Macclesfield</b>
-              </i> in Cheshire, England—just a hop, skip, and jump away from the vibrant city of Manchester. 
+              </i>  in Cheshire, England—just a hop, skip, and jump away from the vibrant city of Manchester. 
               <br /><br />
-              By day, I'm your friendly neighborhood 
+              By day, I'm your friendly neighborhood  
               <i>
                 <b className="purple">iMIS</b>
-              </i> consultant, weaving magic with databases. By night, I dive into the vast universe of web development, crafting digital wonders in the freelance realm.
+              </i>  consultant, weaving magic with databases. By night, I dive into the vast universe of web development, crafting digital wonders in the freelance realm.
               <br /><br />
-              When not deciphering code, you'll find me gazing at the stars, cheering for 
+              When not deciphering code, you'll find me gazing at the stars, cheering for   
               <i>
                 <b className="purple">Manchester United</b>
-              </i>, or engaging in some fierce <i>
+              </i>, or engaging in some fierce  
+              <i>
                 <b className="purple">table tennis</b>
-              </i> battles.
+              </i>  battles.
               <br /><br />
               Join me on this cosmic journey where bytes meet the stars, and passion fuels the game!
             </p>
