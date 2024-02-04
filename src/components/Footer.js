@@ -3,10 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
   AiFillInstagram,
-  XOutlined,
-
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 function Footer() {
   let date = new Date();
@@ -39,7 +38,7 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <XOutlined />
+                <FaXTwitter />
               </a>
             </li>
             <li className="social-icons">
