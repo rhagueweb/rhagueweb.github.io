@@ -1,18 +1,19 @@
 html {
   --section-background-color: linear-gradient(
     to bottom left,
-    rgba(232, 165, 58, 0.582),
+    rgba(17, 16, 16, 0.582),
     rgba(12, 8, 24, 0.904)
   );
 
   --image-gradient: linear-gradient(
     to bottom left,
-    rgba(232, 165, 58, 0.678),
+    rgba(17, 16, 16, 0.678),
     rgba(12, 10, 22, 0.863)
   );
-
+  
   --imp-text-color: #E8A53A;
 }
+
 
 .purple {
   color: var(--imp-text-color) !important;
@@ -57,18 +58,18 @@ button:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: #7C5720;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(178, 121, 216, 0.959);
+  background: #E8A53A;
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: #FFB94F;
   border-radius: 12px;
 }
 
@@ -97,7 +98,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #be50f4 !important;
+  background-color: #E8A53A !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -194,7 +195,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: #E8A53A;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -286,12 +287,12 @@ button:focus {
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #E8A53A !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #E8A53A !important;
 }
 
 @media (max-width: 767px) {
@@ -371,7 +372,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #68187a;
+  background: #E8A53A;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -379,13 +380,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 15px #E8A53A;
 }
 
 .home-social-icons:hover {
   color: #87209e;
-  box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
+  box-shadow: 0 0 5px #E8A53A;
+  text-shadow: 0 0 2px #E8A53A;
 }
 
 .social-icons {
@@ -395,7 +396,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #700c86 !important;
+  color: #E8A53A !important;
 }
 
 /* --------- */
@@ -518,14 +519,14 @@ button:focus {
 
 .btn-primary {
   color: #fff !important;
-  background-color: #623686 !important;
-  border-color: #623686 !important;
+  background-color: #7C5720 !important;
+  border-color: #E8A53A !important;
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color: #7C5720 !important;
+  border-color: #E8A53A !important;
 }
 .btn:focus {
   outline: none !important;

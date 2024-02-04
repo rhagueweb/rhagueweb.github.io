@@ -9,7 +9,7 @@ function Type() {
           "iMIS Consultant",
           "Stargazer",
           "MERN Stack Developer",
-          "Local Table Tennis Palyer",
+          "Local Table Tennis Player",
           "Web Developer",
           "Manchester United Fan",
           "Freelancer",         
