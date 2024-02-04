@@ -19,37 +19,24 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+              Hey there! I'm Richard Hague, hailing from the charming town of 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+                <b className="purple">Macclesfield</b>
+              </i> in Cheshire, England—just a hop, skip, and jump away from the vibrant city of Manchester. 
+              <br /><br />>
+              By day, I'm your friendly neighborhood 
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+                <b className="purple">iMIS</b>
+              </i> consultant, weaving magic with databases. By night, I dive into the vast universe of web development, crafting digital wonders in the freelance realm.
+              <br /><br />
+              When not deciphering code, you'll find me gazing at the stars, cheering for 
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+                <b className="purple">Manchester United</b>
+              </i>, or engaging in some fierce <i>
+                <b className="purple">table tennis</b>
+              </i> battles.
+              <br /><br />
+              Join me on this cosmic journey where bytes meet the stars, and passion fuels the game!
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +54,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/rhagueweb"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,17 +64,17 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/rhagueweb"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <XOutlined />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/rhagueweb"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +84,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/rhague90"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

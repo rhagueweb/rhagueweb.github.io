@@ -38,7 +38,7 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiOutlineTwitter />
+                <XOutlined />
               </a>
             </li>
             <li className="social-icons">
