@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/RH_ProfilePic.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -20,31 +20,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hey there! I'm Richard Hague (33), hailing from the charming town of  
+              Hey there! I'm Richard Hague (33), hailing from the charming town of&nbsp;
               <i>
                 <b className="purple">Macclesfield</b>
-              </i>  in Cheshire, England—just a hop, skip, and jump away from the vibrant city of Manchester. 
+              </i>&nbsp;in Cheshire, England—just a hop, skip, and jump away from the vibrant city of Manchester. 
               <br /><br />
-              By day, I'm your friendly neighborhood  
+              By day, I'm your friendly neighborhood&nbsp;
               <i>
                 <b className="purple">iMIS</b>
-              </i>  consultant, weaving magic with databases. By night, I dive into the vast universe of web development, crafting digital wonders in the freelance realm.
+              </i>&nbsp;consultant, weaving magic with databases. By night, I dive into the vast universe of web development, crafting digital wonders in the freelance realm.
               <br /><br />
-              When not deciphering code, you'll find me gazing at the stars, cheering for   
+              When not deciphering code, you'll find me gazing at the stars, cheering for&nbsp;
               <i>
                 <b className="purple">Manchester United</b>
-              </i>, or engaging in some fierce  
+              </i>&nbsp;, or engaging in some fierce&nbsp;
               <i>
                 <b className="purple">table tennis</b>
-              </i>  battles.
+              </i>&nbsp;battles.
               <br /><br />
               Join me on this cosmic journey where bytes meet the stars, and passion fuels the game!
             </p>
           </Col>
           <Col md={4} className="myAvtar">
-            <Tilt>
+            <div style={{
+              width: 200,
+              height: 200,
+              borderRadius: '50%',
+              overflow: 'hidden'
+            }}>
               <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
+            </div>
           </Col>
         </Row>
         <Row>

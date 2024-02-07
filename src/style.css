@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
   
-  --imp-text-color: #E8A53A;
+  --imp-text-color: #27DEBF;
 }
 
 
@@ -58,12 +58,12 @@ button:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #7C5720;
+  background: #FFF;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #E8A53A;
+  background: #27DEBF;
   border-radius: 12px;
 }
 
@@ -98,7 +98,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #E8A53A !important;
+  background-color: #27DEBF !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -195,7 +195,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #E8A53A;
+  background: #27DEBF;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -258,7 +258,7 @@ button:focus {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+  /* background-image: var(--image-gradient), url(./Assets/home-bg.jpg);*/
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -282,17 +282,17 @@ button:focus {
 }
 
 .main-name {
-  color: #E8A53A;
+  color: #27DEBF;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #E8A53A !important;
+  color: #27DEBF !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #E8A53A !important;
+  color: #27DEBF !important;
 }
 
 @media (max-width: 767px) {
@@ -372,7 +372,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #E8A53A;
+  background: #27DEBF;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -380,13 +380,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #E8A53A;
+  box-shadow: 0 0 15px #27DEBF;
 }
 
 .home-social-icons:hover {
   color: #87209e;
-  box-shadow: 0 0 5px #E8A53A;
-  text-shadow: 0 0 2px #E8A53A;
+  box-shadow: 0 0 5px #27DEBF;
+  text-shadow: 0 0 2px #27DEBF;
 }
 
 .social-icons {
@@ -396,7 +396,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #E8A53A !important;
+  color: #27DEBF !important;
 }
 
 /* --------- */
@@ -519,14 +519,14 @@ button:focus {
 
 .btn-primary {
   color: #fff !important;
-  background-color: #7C5720 !important;
-  border-color: #E8A53A !important;
+  background-color: #1CA68F !important;
+  border-color: #27DEBF !important;
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #7C5720 !important;
-  border-color: #E8A53A !important;
+  background-color: #1CA68F !important;
+  border-color: #27DEBF !important;
 }
 .btn:focus {
   outline: none !important;
