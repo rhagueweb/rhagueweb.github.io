@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/RH_ProfilePic.jpg";
-import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -23,14 +22,14 @@ function Home2() {
               Hey there! I'm Richard Hague (33), hailing from the charming town of&nbsp;
               <i>
                 <b className="purple">Macclesfield</b>
-              </i>&nbsp;in Cheshire, England—just a hop, skip, and jump away from the vibrant city of Manchester. 
+              </i>&nbsp;in Cheshire, England—just a stone's throw from the vibrant city of Manchester. 
               <br /><br />
               By day, I'm your friendly neighborhood&nbsp;
               <i>
                 <b className="purple">iMIS</b>
-              </i>&nbsp;consultant, weaving magic with databases. By night, I dive into the vast universe of web development, crafting digital wonders in the freelance realm.
+              </i>&nbsp;consultant, weaving magic with databases. By night, I immerse myself in the endless possibilities of web development, crafting digital marvels in the world of freelance.
               <br /><br />
-              When not deciphering code, you'll find me gazing at the stars, cheering for&nbsp;
+              Beyond the confines of code, you'll find me gazing at the stars, cheering for&nbsp;
               <i>
                 <b className="purple">Manchester United</b>
               </i>&nbsp;, or engaging in some fierce&nbsp;
@@ -38,7 +37,7 @@ function Home2() {
                 <b className="purple">table tennis</b>
               </i>&nbsp;battles.
               <br /><br />
-              Join me on this cosmic journey where bytes meet the stars, and passion fuels the game!
+              Join me on this cosmic journey where technology meets the stars, and passion fuels the game!
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -46,7 +45,8 @@ function Home2() {
               width: 200,
               height: 200,
               borderRadius: '50%',
-              overflow: 'hidden'
+              overflow: 'hidden',
+              margin: 'auto'
             }}>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </div>
