@@ -19,23 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hey there! I'm Richard Hague (33), hailing from the charming town of&nbsp;
-              <i>
-                <b className="purple">Macclesfield</b>
-              </i>&nbsp;in Cheshire, England—just a stone's throw from the vibrant city of Manchester. 
+              Hey there! I'm Richard Hague (33), hailing from the charming town of <b className="purple">Macclesfield</b> in Cheshire, England—just a stone's throw from the vibrant city of Manchester. 
               <br /><br />
-              By day, I'm your friendly neighborhood&nbsp;
-              <i>
-                <b className="purple">iMIS</b>
-              </i>&nbsp;consultant, weaving magic with databases. By night, I immerse myself in the endless possibilities of web development, crafting digital marvels in the world of freelance.
+              By day, I'm your friendly neighborhood <b className="purple">iMIS</b> consultant, weaving magic with databases. By night, I immerse myself in the endless possibilities of web development, crafting digital marvels in the world of freelance.
               <br /><br />
-              Beyond the confines of code, you'll find me gazing at the stars, cheering for&nbsp;
-              <i>
-                <b className="purple">Manchester United</b>
-              </i>&nbsp;, or engaging in some fierce&nbsp;
-              <i>
-                <b className="purple">table tennis</b>
-              </i>&nbsp;battles.
+              Beyond the confines of code, you'll find me gazing at the stars, cheering for <b className="purple">Manchester United</b>, or engaging in some fierce <b className="purple">table tennis</b> battles.
               <br /><br />
               Join me on this cosmic journey where technology meets the stars, and passion fuels the game!
             </p>
@@ -55,9 +43,6 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
@@ -100,6 +85,9 @@ function Home2() {
                 </a>
               </li>
             </ul>
+            <p>
+              Feel free to <span className="purple">connect </span>with me
+            </p>
           </Col>
         </Row>
       </Container>
