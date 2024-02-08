@@ -6,7 +6,6 @@ import {
   DiNodejs,
   DiMongodb,
   DiGit,
-  DiJava,
   DiHtml5,
   DiCss3
 } from "react-icons/di";
@@ -20,7 +19,6 @@ import {
   SiUmbraco,
   SiWordpress,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
