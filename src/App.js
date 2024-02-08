@@ -17,10 +17,20 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+import ReactGA from "react-ga";
+
+const TRACKING_ID = 'G-VTH3M5VHEK';
+ReactGA.initialize(TRACKING_ID);
+
+
 function App() {
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
+    
+    // Track page view
+    ReactGA.pageview(window.location.pathname + window.location.search);
+    
     const timer = setTimeout(() => {
       upadateLoad(false);
     }, 1200);
