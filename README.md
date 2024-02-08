@@ -1,7 +1,5 @@
-<h2 align="center">
-  rhagueweb | Portfolio<br/>
-  <a href="https://rhagueweb.online" target="_blank">rhagueweb.online</a>
-</h2>
+<h1 style="color: #27DEBF" align="center">Richard Hague | Portfolio</h1>
+<h3 align="center"><a href="https://rhagueweb.online" target="_blank">rhagueweb.online</a></h3><br>
 
 Welcome to my personal portfolio repository! This is the codebase for my personal website.
 
@@ -12,7 +10,7 @@ Richard Hague, 33, from Macclesfeld, England. I'm currently on a web development
 ## Skills & Technologies
 
 - **Programming Languages:** JavaScript
-- **Web Development:** HTML, CSS, React, Tailwind
+- **Web Development:** HTML, CSS, React, Tailwind, REST API
 - **Database:** MongoDB, MSSQL
 - **Other Skills:** Git, Umbraco, Strapi, Payload
 
