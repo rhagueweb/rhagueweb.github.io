@@ -1,38 +1,28 @@
 <h2 align="center">
-  My Portfolio<br/>
-  <a href="https://rhagueweb.github.io/" target="_blank">rhagueweb.github.io</a>
+  rhagueweb | Portfolio<br/>
+  <a href="https://rhagueweb.online" target="_blank">rhagueweb.online</a>
 </h2>
 
 Welcome to my personal portfolio repository! This is the codebase for my personal website.
 
 ## About Me
 
-Briefly introduce yourself and share a bit about your background and interests.
+Richard Hague, 33, from Macclesfeld, England. I'm currently on a web development journey, learning the MERN stack with the use of headless CMS's (Strapi & Payload).
 
-## Projects
+## Skills & Technologies
 
-List and provide links to some of the key projects you have worked on.
-
-- [Project 1](link-to-project-repo-or-website): Short description.
-- [Project 2](link-to-project-repo-or-website): Short description.
-- ...
-
-## Skills
-
-Highlight your key skills and technologies.
-
-- **Programming Languages:** Python, JavaScript, etc.
-- **Web Development:** HTML, CSS, React, etc.
-- **Database:** MongoDB, MySQL, etc.
-- **Other Skills:** Git, Docker, etc.
+- **Programming Languages:** JavaScript
+- **Web Development:** HTML, CSS, React, Tailwind
+- **Database:** MongoDB, MSSQL
+- **Other Skills:** Git, Umbraco, Strapi, Payload
 
 ## Contact
 
-Provide ways for people to reach out to you.
+Reach out to me via:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **Portfolio Website:** [Your Portfolio Website](https://your-portfolio-website.com)
+- **Email:** rhagueweb@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rhagueweb)
+- **Portfolio Website:** [Your Portfolio Website](https://rhagueweb.online)
 
 ## Attribution
 

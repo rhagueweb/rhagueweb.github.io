@@ -17,6 +17,8 @@ import {
   SiStrapi,
   SiTailwindcss,
   SiMicrosoftsqlserver,
+  SiUmbraco,
+  SiWordpress,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -61,6 +63,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMicrosoftsqlserver />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiWordpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiUmbraco />
       </Col>
     </Row>
   );
