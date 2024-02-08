@@ -11,7 +11,6 @@ import {
   Route,
   Routes,
   Navigate,
-  useLocation,
   useHistory
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
