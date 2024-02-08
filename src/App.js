@@ -17,7 +17,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import ReactGA from 'react-ga4'; // Import react-ga4
+import ReactGA from 'react-ga4';
 
 function App() {
   const [load, updateLoad] = useState(true);
