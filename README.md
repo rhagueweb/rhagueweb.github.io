@@ -19,8 +19,8 @@ Richard Hague, 33, from Macclesfeld, England. I'm currently on a web development
 Reach out to me via:
 
 - **Email:** rhagueweb@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rhagueweb)
-- **Portfolio Website:** [Your Portfolio Website](https://rhagueweb.online)
+- **LinkedIn:** https://www.linkedin.com/in/rhagueweb
+- **Website:** https://rhagueweb.online
 
 ## Attribution
 
