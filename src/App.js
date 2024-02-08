@@ -10,33 +10,47 @@ import {
   BrowserRouter as Router,
   Route,
   Routes,
-  Navigate
+  Navigate,
+  useLocation,
+  useHistory
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-
-import ReactGA from "react-ga";
-
-const TRACKING_ID = 'G-VTH3M5VHEK';
-ReactGA.initialize(TRACKING_ID);
-
+import ReactGA from 'react-ga4'; // Import react-ga4
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true);
+  const history = useHistory();
 
   useEffect(() => {
-    
-    // Track page view
+    const handleLoad = () => {
+      updateLoad(false);
+    };
+
+    // Initialize react-ga4
+    ReactGA.initialize('G-VTH3M5VHEK');
+
+    // Track page view on initial load
     ReactGA.pageview(window.location.pathname + window.location.search);
-    
+    handleLoad();
+
+    // Track page view on route change
+    const unlisten = history.listen(() => {
+      ReactGA.pageview(window.location.pathname + window.location.search);
+    });
+
+    // Set up timer
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false);
     }, 1200);
 
-    return () => clearTimeout(timer);
-  }, []);
+    return () => {
+      clearTimeout(timer);
+      unlisten();
+    };
+  }, [history]);
 
   return (
     <Router>
