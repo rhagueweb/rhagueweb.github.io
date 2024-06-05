@@ -5,14 +5,14 @@ Welcome to my personal portfolio repository! This is the codebase for my persona
 
 ## About Me
 
-Richard Hague, 33, from Macclesfeld, England. I'm currently on a web development journey, learning the MERN stack with the use of headless CMS's (Strapi & Payload).
+Richard Hague, 33, from Macclesfeld, England. I'm currently on a web development journey, learning the MERN stack with the use of headless CMS's (Strapi & Payload) + Next.js and Tailwind CSS.
 
 ## Skills & Technologies
 
 - **Programming Languages:** JavaScript
-- **Web Development:** HTML, CSS, React, Tailwind, REST API
+- **Web Development:** HTML, CSS, React, Next.js, Tailwind CSS, REST API
 - **Database:** MongoDB, MSSQL
-- **Other Skills:** Git, Umbraco, Strapi, Payload
+- **Other Skills:** Git, Umbraco, Strapi, Payload, Vercel
 
 ## Contact
 
