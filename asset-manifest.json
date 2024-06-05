@@ -1,26 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.26509993.css",
-    "main.js": "/static/js/main.94179da0.js",
+    "main.js": "/static/js/main.240524a6.js",
     "static/js/592.6d7de513.chunk.js": "/static/js/592.6d7de513.chunk.js",
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/Richard Hague Website - CV.pdf": "/static/media/Richard Hague Website - CV.cd1aee9b378741002555.pdf",
     "static/media/home-main.svg": "/static/media/home-main.5cc5a2bc2f97dd4ee5fb6ac801cefcfd.svg",
     "static/media/about.svg": "/static/media/about.b598adbae62483298d35ad2d67d219fb.svg",
-    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/CVTOFOLLOW.pdf": "/static/media/CVTOFOLLOW.a4a16acc5700416d45f2.pdf",
     "static/media/RH_ProfilePic.jpg": "/static/media/RH_ProfilePic.876e50e7e6713483c64f.jpg",
     "index.html": "/index.html",
     "static/media/pre.svg": "/static/media/pre.dcc940f7c78e6e21f468.svg",
     "main.26509993.css.map": "/static/css/main.26509993.css.map",
-    "main.94179da0.js.map": "/static/js/main.94179da0.js.map",
+    "main.240524a6.js.map": "/static/js/main.240524a6.js.map",
     "592.6d7de513.chunk.js.map": "/static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26509993.css",
-    "static/js/main.94179da0.js"
+    "static/js/main.240524a6.js"
   ]
 }
