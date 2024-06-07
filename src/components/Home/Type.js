@@ -8,11 +8,10 @@ function Type() {
         strings: [
           'iMIS Consultant',
           'Stargazer',
-          'MERN Stack Developer',
+          'MERN Stack Junior Dev',
           'Local Table Tennis Player',
-          'Web Developer',
+          'Web Dev Enthusiast',
           'Manchester United Fan',
-          'Freelancer',
           'Girl Dad x 4!',
         ],
         autoStart: true,
