@@ -11,8 +11,11 @@ function AboutCard() {
             Hi Everyone, I am <span className='purple'>Richard Hague</span>{' '}
             (33), from
             <span className='purple'>Macclesfield, England (UK).</span>
-            <br />
-            I am currently employed as a Consultant at Zentso.
+            <br />I am currently employed as a Consultant at{' '}
+            <a href='https://zentso.com/' target='_blank' rel='noreferrer'>
+              Zentso
+            </a>
+            .
             <br />
             Outside of my 9-5, I am passionate about website development and
             love keeping up with the latest technologies.
