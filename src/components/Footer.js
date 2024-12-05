@@ -2,7 +2,6 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { AiFillGithub } from 'react-icons/ai';
 import { FaLinkedinIn } from 'react-icons/fa';
-import { FaXTwitter } from 'react-icons/fa6';
 
 function Footer() {
   let date = new Date();
@@ -24,16 +23,6 @@ function Footer() {
                 rel='noopener noreferrer'
               >
                 <AiFillGithub />
-              </a>
-            </li>
-            <li className='social-icons'>
-              <a
-                href='https://twitter.com/rhagueweb'
-                style={{ color: 'white' }}
-                target='_blank'
-                rel='noopener noreferrer'
-              >
-                <FaXTwitter />
               </a>
             </li>
             <li className='social-icons'>

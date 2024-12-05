@@ -3,7 +3,6 @@ import { Container, Row, Col } from 'react-bootstrap';
 import myImg from '../../Assets/RH_ProfilePic.jpg';
 import { AiFillGithub } from 'react-icons/ai';
 import { FaLinkedinIn } from 'react-icons/fa';
-import { FaXTwitter } from 'react-icons/fa6';
 
 function Home2() {
   return (
@@ -64,16 +63,6 @@ function Home2() {
                   className='icon-colour  home-social-icons'
                 >
                   <AiFillGithub />
-                </a>
-              </li>
-              <li className='social-icons'>
-                <a
-                  href='https://twitter.com/rhagueweb'
-                  target='_blank'
-                  rel='noreferrer'
-                  className='icon-colour  home-social-icons'
-                >
-                  <FaXTwitter />
                 </a>
               </li>
               <li className='social-icons'>
