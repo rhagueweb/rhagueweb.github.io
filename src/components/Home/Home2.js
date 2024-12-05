@@ -14,7 +14,7 @@ function Home2() {
               LET ME <span className='purple'> INTRODUCE </span> MYSELF
             </h1>
             <p className='home-about-body'>
-              Hey there! I'm Richard Hague (33), hailing from the charming town
+              Hey there! I'm Richard Hague (34), hailing from the charming town
               of <b className='purple'>Macclesfield</b> in Cheshire,
               England—just a stone's throw from the vibrant city of Manchester.
               <br />
