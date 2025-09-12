@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: 'justify' }}>
             Hi Everyone, I am <span className='purple'>Richard Hague</span>{' '}
             (34), from
-            <span className='purple'>Macclesfield, England (UK).</span>
+            <span className='purple'> Macclesfield, England (UK).</span>
             <br />I am currently employed as a Consultant at{' '}
             <a
               href='https://zentso.com/'
