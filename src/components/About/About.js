@@ -6,6 +6,7 @@ import Techstack from './Techstack';
 import Aboutcard from './AboutCard';
 import laptopImg from '../../Assets/about.svg';
 import Toolstack from './Toolstack';
+import myImg2 from '../../Assets/RH_ProfilePic2.png';
 
 function About() {
   return (
@@ -21,9 +22,17 @@ function About() {
               paddingBottom: '50px',
             }}
           >
-            <h1 style={{ fontSize: '2.1em', paddingBottom: '20px' }}>
-              Know Who <strong className='purple'>I AM</strong>
-            </h1>
+            <div
+              style={{
+                width: 200,
+                height: 200,
+                borderRadius: '50%',
+                overflow: 'hidden',
+                margin: 'auto',
+              }}
+            >
+              <img src={myImg2} className='img-fluid' alt='avatar' />
+            </div>
             <Aboutcard />
           </Col>
           <Col
