@@ -5,7 +5,7 @@ Welcome to my personal portfolio repository! This is the codebase for my persona
 
 ## About Me
 
-Richard Hague, 33, from Macclesfeld, England. I'm currently on a web development journey, learning the MERN stack with the use of headless CMS's (Strapi & Payload) + Next.js and Tailwind CSS.
+Richard Hague, 35, from Macclesfeld, England. I'm currently on a web development journey, learning the MERN stack with the use of headless CMS's (Strapi & Payload) + Next.js and Tailwind CSS.
 
 ## Skills & Technologies
 
@@ -20,8 +20,7 @@ Reach out to me via:
 
 - **Email:** rhagueweb@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/rhagueweb
-- **Website:** https://rhagueweb.online
-
+- **Website:** https://rhagueweb.com
 ## Attribution
 
 This project is based on the work of soumyajit4419. The original code can be found [here](https://github.com/soumyajit4419/Portfolio).
